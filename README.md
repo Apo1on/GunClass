@@ -1,3 +1,4 @@
 # АТД
 
-![gun](https://github.com/Apo1on/GunClass/assets/147008115/adb8fd9a-56f3-4dcf-932d-9a665b1f155e)
+![GunCLass drawio](https://github.com/Apo1on/GunClass/assets/147008115/9aab2499-2154-4479-b70d-100b32b2f5d4)
+
